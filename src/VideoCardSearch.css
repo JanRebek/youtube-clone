@@ -1,0 +1,42 @@
+.videoCardSearch {
+  margin: 20px;
+  display: flex;
+}
+
+.videoCardSearch__info {
+  display: flex;
+}
+
+.videoCardSearch__channelInfo {
+  display: flex;
+}
+
+.videoCardSearch__thumbnail {
+  height: 210px;
+  width: 375px;
+}
+
+.videoCardSearch__side {
+  margin-left: 10px;
+  color: white;
+}
+
+.videoCardSearch__info {
+  color: lightgray;
+}
+
+.videoCardSearch__channelInfo {
+  margin-top: 10px;
+}
+
+.videoCardSearch__channelName {
+  color: lightgray;
+  padding-left: 10px;
+}
+
+.videoCardSearch__description {
+  overflow: hidden;
+  color: lightgray;
+
+  padding-top: 10px;
+}

@@ -1,0 +1,36 @@
+.VideoCard__thumbnail {
+  height: 140px;
+  width: 250px;
+}
+
+.VideoCard__bottom {
+  display: flex;
+}
+
+.VideoCard__text {
+  margin-left: 15px;
+  margin-top: 0px;
+  color: lightgray;
+}
+
+.VideoCard__title {
+  color: white;
+}
+
+.VideoCard__info {
+  display: flex;
+}
+
+.VideoCard__views {
+  padding-right: 5px;
+}
+
+.VideoCard__video {
+  width: 250px;
+  margin-bottom: 40px;
+  margin-right: 30px;
+}
+
+.VideoCard__bottom {
+  padding-top: 10px;
+}
