@@ -39,12 +39,13 @@
   margin-left: 10px;
   margin-right: 10px;
   color: white;
+  border-right: 1px solid lightgray;
+  border: none;
 }
 
 .header__inputButton {
   background-color: #1a1a1a;
   color: lightgray;
-  border-left: 1px solid lightgray;
 }
 
 .header__inputButton:hover {
