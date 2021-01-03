@@ -30,7 +30,7 @@ function SearchPage() {
             description="This is the first in a series of videos about Brazilian jiu-jitsu. In this video, third generation Brazilian Jiu- "            
             />
             <VideoCardSearch 
-            image="https://i.ytimg.com/an_webp/98gMJwqDRKg/mqdefault_6s.webp?du=3000&sqp=COi1vf8F&rs=AOn4CLCUihOfuY6_JUu5DifdrsEr-zA4og"
+            image="https://i.ytimg.com/vi/98gMJwqDRKg/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDiBDT2MJ2ru5UoknqzmXshL6Hzrw"
             title="White Belt Tournament FULL MATCHES Jiu Jitsu IBJJF"
             channel="Caleb Kim"
             views="22k views"
@@ -39,7 +39,7 @@ function SearchPage() {
             description="Thank you for your support in my jiu jitsu journey! Because there were so much positive feedback from the"            
             />
             <VideoCardSearch 
-            image="https://i.ytimg.com/an_webp/gGTjSyo2JKI/mqdefault_6s.webp?du=3000&sqp=CNKqvf8F&rs=AOn4CLD3zlKOaB5TTYxWXpo2LS09DIzCTw"
+            image="https://i.ytimg.com/vi/gGTjSyo2JKI/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDlgDC9sKVCQPmrHf2Qu4IYgzt8zg"
             title="BJJ vs. Boxing MMA-Streetfight DFC"
             channel="DEFEND Fight Club"
             views="283k views"
@@ -48,7 +48,7 @@ function SearchPage() {
             description="BJJ vs. Boxer -- MMA-rules FULL FIGHT JETZT KANALMITGLIED WERDEN UND UNS SUPPORTED:... "
             />
             <VideoCardSearch 
-            image="https://i.ytimg.com/an_webp/mcP-qt-PxkE/mqdefault_6s.webp?du=3000&sqp=CJHEvf8F&rs=AOn4CLCSVtd1Bm4ezFUf0H2EyMMVq4Xxwg"
+            image="https://i.ytimg.com/vi/mcP-qt-PxkE/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA18Z64Z0Suxk94Yr0lUdqD9B2q6g"
             title="Bjj Black Belt taps out Agressive Purple Belt"
             channel="Jedi Goes Jiujitsu"
             views="46k views"
